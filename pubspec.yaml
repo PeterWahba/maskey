@@ -35,6 +35,15 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
+  # high-performance state management
+  get: ^4.6.1
+
+  # A Flutter plugin for iOS, Android and Web allowing access to the device cameras.
+  camera: ^0.9.4+10
+  
+  # A Flutter plugin for accessing TensorFlow Lite API.
+  tflite: ^1.1.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
